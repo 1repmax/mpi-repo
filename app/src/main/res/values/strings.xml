@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">MPI</string>
+    <string name="app_authors">
+        <![CDATA[
+        This is the first application from Group 1:\n
+            \u2022 Raivo Lapins\n
+            \u2022 Guntis Graudins\n
+            \u2022 Aigars Strods
+        ]]>
+    </string>
+    <string name="author">
+        And the application was developed by Raivo Lapins
+    </string>
 </resources>
