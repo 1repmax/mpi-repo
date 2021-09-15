@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">MPI</string>
+    <string name="navigate_2nd_act">Go to 2-nd</string>
+    <string name="first_activity">1-st activity</string>
+    <string name="second_activity">2-nd activity</string>
+    <string name="dialog_button">Dialog</string>
+    <string name="dialog_title">1. Group\'s Dialog</string>
+    <string name="ok_dialog_button">OK</string>
+    <string name="close_dialog_button">Close</string>
+
+    <string-array name="choices_array">
+        <item>Raivo Lapins</item>
+        <item>Aigars Strods</item>
+        <item>Guntis Graudins</item>
+    </string-array>
 </resources>
