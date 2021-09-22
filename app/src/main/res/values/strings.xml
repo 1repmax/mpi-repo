@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">MPI</string>
+    <string name="app_name">Repository G-1</string>
+    <string name="save_button">Save</string>
+    <string name="enter_value_prompt">Enter value here...</string>
+    <string name="go_to_second">Go to 2-nd</string>
+    <string name="read_pref">Read preferences</string>
+    <string name="default_theme">Default</string>
+    <string name="dark_theme">Dark</string>
+    <string name="light_theme">Light</string>
+    <string name="themes">Themes</string>
+
+    <string-array name="themes">
+        <item>@string/default_theme</item>
+        <item>@string/dark_theme</item>
+        <item>@string/light_theme</item>
+    </string-array>
 </resources>
